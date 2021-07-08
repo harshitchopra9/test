@@ -1,3 +1,4 @@
 var a = 8;
 var b = 9;
-console.log(a+b)
+var c = 10;
+console.log(a+b+c)
